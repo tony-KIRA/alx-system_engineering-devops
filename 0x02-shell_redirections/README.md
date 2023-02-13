@@ -1,2 +1,2 @@
 #!/bin/bash
-duplicate last line 
+no java scripits 
