@@ -1,2 +1,2 @@
 #!/bin/bash
-Display the content of the /etc/passwd file.
+display the contents of two files
