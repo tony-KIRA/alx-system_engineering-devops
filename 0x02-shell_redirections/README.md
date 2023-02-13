@@ -1,2 +1,2 @@
 #!/bin/bash
-script prints a smilley "(Ôo)'
+Display the content of the /etc/passwd file.
