@@ -1,2 +1,2 @@
 #!/bin/bash
-display lasst 10 lines
+display first 10 lines
