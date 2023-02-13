@@ -1,2 +1,2 @@
 #!/bin/bash
-script runs hello world
+script prints a smilley "(Ôo)'
