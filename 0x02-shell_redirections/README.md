@@ -1,2 +1,2 @@
 #!/bin/bash
-display first 10 lines
+display the 3 lines 
