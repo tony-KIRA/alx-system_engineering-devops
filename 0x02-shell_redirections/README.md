@@ -1,2 +1,2 @@
 #!/bin/bash
-no java scripits 
+find that word 
