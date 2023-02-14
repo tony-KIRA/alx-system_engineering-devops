@@ -1,2 +1,2 @@
 #!/bin/bash
-allias 
+hello you 
