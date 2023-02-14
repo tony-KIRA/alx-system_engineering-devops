@@ -1,2 +1,2 @@
 #!/bin/bash
-deleting cC
+tr -d "cC"
