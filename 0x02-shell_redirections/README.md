@@ -1,2 +1,2 @@
 #!/bin/bash
-find that word 
+next 3 lines
