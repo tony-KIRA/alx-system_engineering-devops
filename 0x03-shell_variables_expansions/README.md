@@ -1,2 +1,2 @@
 #!/bin/bash
-hello you 
+massive detrmined action  
